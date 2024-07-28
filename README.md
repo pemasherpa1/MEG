@@ -1,6 +1,7 @@
 MEG Blink Analysis
+
 Overview
-This project focuses on the analysis of Magnetoencephalography (MEG) data, specifically aimed at identifying and processing blink artifacts. The analysis involves preprocessing MEG signals, detecting blinks using Independent Component Analysis (ICA), and visualizing the data to ensure the accuracy of blink detection.
+This project focuses on the analysis of Magnetoencephalography (MEG) data, specifically aimed at identifying and processing blink artifacts. The analysis involves preprocessing of the MEG data, detecting blinks using Independent Component Analysis (ICA), and visualizing the data to ensure the accuracy of blink detection.
 
 Features
 Data Preprocessing: Filtering and cleaning of raw MEG data.
